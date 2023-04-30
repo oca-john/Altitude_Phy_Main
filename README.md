@@ -2,7 +2,7 @@
 
 ## The structure of the code folder.
 ```
-Codes_Arch                # Codes for acquisition, processing, analysis and visualisation
+Codes_Arch               # Codes for acquisition, processing, analysis and visualisation
  ├─Berry_Related         # Codes modified of Berry Equipment to output data records
  ├─Data_Preprocess       # Codes for preprocess
  ├─Data_Visualization    # Codes for data visulization
