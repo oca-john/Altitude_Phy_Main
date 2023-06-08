@@ -1,5 +1,7 @@
 ## 数据使用协议
 
+本协议用于引导 Harespod 数据集的合理使用，相关处理和可视化程序的使用需要另行参考 [LICENSE](https://github.com/oca-john/Harespod/blob/main/LICENSE "LICENSE") 协议。
+
 数据集的使用者应该遵循以下协议内容：
 
 ###### 被许可的数据使用：
@@ -22,6 +24,8 @@
 - 基于本数据集进行的衍生研究一般具有特定的研究动机和策略，这些内容由相关的研究人员产生，因此其研究人员或机构应当自觉遵守相关法律，并对他们研究及其产生的影响负责。
 
 ## Data Usage Agreement
+
+This agreement is intended to guide the reasonable use of the Harespod dataset, and the use of related processing and visualization programs should be referred to the [LICENSE](https://github.com/oca-john/Harespod/blob/main/LICENSE "LICENSE") agreement separately.
 
 Users of the dataset should adhere to the following agreement:
 
