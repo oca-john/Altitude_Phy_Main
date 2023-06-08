@@ -29,7 +29,7 @@
 
 The use of datasets should follow the following protocol:
 
-###### Licensed data usage:
+###### Licensed data usage:
 
 - This dataset should be obtained from research teams, publishers, and data repositories to ensure its accuracy and avoid misleading research in related fields through incorrect use.
   
