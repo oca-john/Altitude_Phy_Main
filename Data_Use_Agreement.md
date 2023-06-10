@@ -27,7 +27,7 @@
 - 本数据的使用应该满足出版商和在线数据仓库的相关政策，并遵守相关的法规。
 - 基于本数据集进行的衍生研究一般具有特定的研究动机和策略，这些内容由相关的研究人员产生，因此其研究人员或机构应当自觉遵守相关法律，并对他们研究及其产生的影响负责。
 
-## Data Usage Agreement
+## Data Use Agreement
 
 > 7 June 2023.
 > 
@@ -37,7 +37,7 @@ This agreement is intended to guide the reasonable use of the Harespod dataset, 
 
 Users of the dataset should adhere to the following agreement:
 
-#### Permitted Data Usage:
+#### Permitted Data Use:
 
 - The dataset should be obtained from online data repositories, publishers, or research teams to ensure its accuracy and avoid any misleading use that may affect related research fields.
 
